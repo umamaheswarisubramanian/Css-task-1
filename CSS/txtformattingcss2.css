@@ -1,0 +1,141 @@
+
+	#qq	{	
+		color:red;
+		font-size:24px;
+		text-align:right;
+	}
+	#ww{
+		color:red;
+		font-size:24px;
+		text-align:center;
+	}
+	#ee{	
+		color:red;
+		font-size:24px;
+		text-align:left;
+	}
+	.rr{	
+		color:red;
+		font-size:24px;
+		text-align:left;
+	}
+.a {
+  text-align-last: right;
+  font-size:18px;
+}
+
+.b {
+  text-align-last: center;
+  font-size:18px;
+}
+
+.c {
+  text-align-last: justify;
+	font-size:18px;
+}
+.d{
+	direction:rtl;
+	unicode-bidi: bidi-override;
+}
+.pinfontsz{
+	 text-indent: 50px;
+	font-size:18px;
+}
+	/*text-decoration or text-decoration-line mention pannalam*/
+h4.kk{
+	text-decoration: underline;
+	text-decoration-color: red;
+}
+h4.jj{
+	text-decoration: line-through;
+	text-decoration-color: green;
+}
+
+h4.ll{
+	text-decoration: overline;
+	text-decoration-color: violet;
+}
+h4.mm{
+	text-decoration: underline overline;
+	text-decoration-color: red;
+}
+h4.zz{
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+}
+h4.xx{
+	text-decoration-line: underline;
+	text-decoration-style: double;
+}
+h4.cc{
+	text-decoration-line: underline;
+	text-decoration-style: dotted;
+}
+h4.vv{
+	text-decoration-line: underline;
+	text-decoration-style: dashed;
+}
+h4.bb{
+	text-decoration-line: underline;
+	text-decoration-color: red;
+	text-decoration-style: wavy;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.lowercase{
+	text-transform: lowercase;
+}
+.capitalize{
+	text-transform: capitalize;
+}
+h3.indent{
+	text-indent: 50px;
+}
+h3.spacing+{
+	letter-spacing:	5px;
+	text-indent: 50px;
+}
+.spacing-{
+	letter-spacing:	-2px;
+	text-indent: 50px;
+}
+.bheight{
+	text-indent: 50px;
+	line-height: 1.8;
+}
+.sheight{
+	text-indent: 50px;
+	line-height: 0.8;
+}
+.spaceone{
+	word-spacing: 10px;
+}
+.spacetwo{
+		word-spacing:	-2px;
+}
+.type1{
+		text-shadow: 1px 2px;
+}
+.type2{
+	text-shadow:1px 2px red;
+}
+.type3{
+	text-shadow:1px 2px 2px red;
+}
+.type4{
+	color: white;
+	text-shadow:1px 2px 2px red;
+}
+.type5{
+	
+	text-shadow:0 0 3px #FF0000;
+}
+.type6{
+	
+	text-shadow:0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.type7{
+	color:white;
+	text-shadow:1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
